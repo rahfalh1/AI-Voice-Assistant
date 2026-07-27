@@ -47,11 +47,11 @@ AI-Voice-Assistant/
 
 ## Problem
 
-The application initially displayed a server connection error because the frontend could not communicate correctly with the PHP backend.
+The web application was unable to communicate properly with the PHP backend, causing server connection errors when sending messages.
 
 ## Solution
 
-The PHP backend was updated to correctly process POST requests, the frontend communication was fixed using Fetch API, and the server timezone was configured correctly.
+The PHP backend was updated to correctly handle POST requests. The frontend communication was implemented using the Fetch API, and the server timezone was configured correctly to ensure accurate date and time responses.
 
 ## Result
 
