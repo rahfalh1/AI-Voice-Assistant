@@ -35,7 +35,7 @@ AI-Voice-Assistant/
 
 ## Screenshot
 
-![Application Screenshot]Screenshot.png)
+![Application Screenshot](Screenshot.png)
 
 ## Installation
 
