@@ -25,18 +25,17 @@ This project is a simple AI Voice Assistant web application developed using HTML
 
 ## Project Structure
 
-```
 AI-Voice-Assistant/
 │── index.html
 │── style.css
 │── script.js
 │── chat.php
+│── Screenshot.png
 └── README.md
-```
 
 ## Screenshot
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot]Screenshot.png)
 
 ## Installation
 
