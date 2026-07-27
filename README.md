@@ -34,6 +34,10 @@ AI-Voice-Assistant/
 └── README.md
 ```
 
+## Screenshot
+
+![Application Screenshot](screenshot.png)
+
 ## Installation
 
 1. Install XAMPP.
